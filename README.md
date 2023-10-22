@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20This%20is%20PecanPie%20🥧🧑‍💻&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20This%20is%20PecanPie's%20Github%20🥧🧑‍💻&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=100)
 
 ### 2021.12~ 개발 중
 
