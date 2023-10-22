@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20PecanPie's%20GitHub%20🥧&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=120)
 
-#### 2021.12~ 개발 중
+### 2021.12~ 개발 중
 
   Apple Developer Academy @POSTECH 1기 
 
