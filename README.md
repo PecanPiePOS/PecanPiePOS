@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20PecanPie's%20GitHub%20🥧&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20This%20is%20PecanPie%20🥧🧑‍💻&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=120)
 
 ### 2021.12~ 개발 중
 
-  Apple Developer Academy @POSTECH 1기 
+  Apple Developer Academy @POSTECH 1기 수료
 
 🏅 Winner of WWDC22 Swift Student Challenge
 
