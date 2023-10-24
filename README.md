@@ -6,7 +6,7 @@
 
 🏅 Winner of WWDC22 Swift Student Challenge
 
-🧩 Sopt 32nd YB iOS 파트, 앱잼팀 퍼즐링 iOS 리드
+🧩 Sopt 32nd YB iOS 파트, 앱잼 퍼즐링 팀의 iOS 리드
 
 **📗 텔링미 팀, iOS 개발자 - 리펙터링, 유지보수 중**
 
