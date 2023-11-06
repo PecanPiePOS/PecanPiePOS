@@ -2,6 +2,7 @@
 
 ### 2021.12~ 개발 중
 
+👨🏼‍💻 iOS 주니어 개발자 심규보의 개발 공간입니다!
   Apple Developer Academy @POSTECH 1기 수료
 
 🏅 Winner of WWDC22 Swift Student Challenge
