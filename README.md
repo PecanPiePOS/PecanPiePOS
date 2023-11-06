@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20This%20is%20PecanPie's%20Github%20🥧🧑‍💻&animation=twinkling&fontSize=25&fontAlignY=25&fontAlign=50&height=100)
 
-### 2021.12~ 개발 중
 
-👨🏼‍💻 iOS 주니어 개발자 심규보의 개발 공간입니다!
+### 👨🏼‍💻 iOS 주니어 개발자 심규보의 개발 공간입니다!
+#### 2021.12~ 개발 중
+
   Apple Developer Academy @POSTECH 1기 수료
 
 🏅 Winner of WWDC22 Swift Student Challenge
