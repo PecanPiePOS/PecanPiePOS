@@ -6,13 +6,12 @@
 
 #### 2022.01~ 개발 중
 
-  Apple Developer Academy @POSTECH 1기 수료
+### **☘️ Pagers 팀, iOS 개발자 및 PM - 리펙터링, 유지보수 중**
+👉🏻 [The Mont 앱스토어](https://apps.apple.com/kr/app/the-month/id6504983925)
 
-🏅 Winner of WWDC22 Swift Student Challenge
-
+    Apple Developer Academy @POSTECH 1기 수료  
+🏅 Winner of WWDC22 Swift Student Challenge  
 🧩 Sopt 32nd YB iOS 파트, 앱잼 퍼즐링, 그로쑥 팀의 iOS 테크 리드
-
-**📗 텔링미 팀, iOS 개발자 - 리펙터링, 유지보수 중**
 
 
 
