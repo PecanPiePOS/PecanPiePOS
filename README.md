@@ -21,6 +21,7 @@
     Apple Developer Academy @POSTECH 1기 수료  
 🏅 Winner of WWDC22 Swift Student Challenge  
 🧩 Sopt 32nd YB iOS 파트, 앱잼 퍼즐링, 그로쑥 팀의 iOS 테크 리드
+
 📌 팀 Pagers 의 PM 및 iOS 개발자 - The Month 개발
 📌 차트연구소 연구원 - iOS 개발 (2024.09~)
 
