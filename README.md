@@ -15,8 +15,12 @@
 
 <img src="https://github.com/user-attachments/assets/6831ae01-1180-4ed3-a60f-08c7db4e2d8e" width="60"/> 
 
-📌 [The Month 앱스토어](https://apps.apple.com/kr/app/the-month/id6504983925)  
+📌 [The Month 앱스토어 - AppStore](https://apps.apple.com/kr/app/the-month/id6504983925)  
 ☘️ [The Month 소개 Github](https://github.com/PagersPlanco/The-Month)
+
+<img src="https://github.com/user-attachments/assets/69078bb9-6fb0-40af-96e3-e71193893b01" width="60"/> 
+
+☘️ [Stickat 앱스토어 - AppStore](https://apps.apple.com/app/id6742069953)
 
     Apple Developer Academy @POSTECH 1기 수료  
 🏅 Winner of WWDC22 Swift Student Challenge  
