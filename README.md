@@ -7,7 +7,6 @@
 #### 2022.01~ 개발 중  
 ---
 
-## **☘️ 차트연구소 iOS 개발자 (재직 중)**
 ## **🍊 팀 Pagers - The Month 앱 iOS 개발자 및 PM**
 ### 🖥️ 리펙터링, 유지보수 중~
 
@@ -26,7 +25,7 @@
 🏅 Winner of WWDC22 Swift Student Challenge  
 🧩 Sopt 32nd YB iOS 파트, 앱잼 퍼즐링, 그로쑥 팀의 iOS 테크 리드  
 📌 팀 Pagers 의 PM 및 iOS 개발자 - The Month 개발  
-📌 차트연구소 연구원 - iOS 개발 (2024.09~)
+📌 차트연구소 연구원 - iOS 개발 (2024.09~2025.04)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PecanPiePOS&show_icons=true&theme=calm)
